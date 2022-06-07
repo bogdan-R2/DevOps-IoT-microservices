@@ -1,5 +1,3 @@
-Radoi Bogdan-Mihai 344C3
-
 Din directorul principal se va rula scriptul run.sh.
 Acesta va crea serviciile:
 
